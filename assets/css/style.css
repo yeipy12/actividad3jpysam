@@ -1,0 +1,64 @@
+body{
+    background-color:rgb(51, 51,51);
+}
+
+.texto{
+    font-family:sans-serif;
+    display: flex;
+}
+
+.texto-blanco{
+    color: white;
+}
+
+.menu{
+    width: 20%;
+    padding: 1px;
+    color: white;
+}
+
+.efecto-menu:hover{
+    margin-bottom: 10px;
+    background-color: rgba(255, 255, 255, 0.1);
+
+}
+
+.contenedor{
+    width: 100%;
+    padding-top : 0px;
+    padding-left: 3%;
+    padding-right: 3%;
+    padding-bottom: 0px;
+}
+
+.fila-1{
+    background-color: rgb(0, 215, 243);
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+
+.fila-2{
+    background-color: rgb(255,222,0);
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+
+.fila-3{
+    background-color: rgb(255,122,0);
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
+
+.fila-4{
+    background-color: rgb(255,0,18);
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-top: 1px;
+    padding-bottom: 1px;
+}
